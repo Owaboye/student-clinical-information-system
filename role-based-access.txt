@@ -1,0 +1,58 @@
+Module 1: Multi-role System: Admin, Doctor, Nurse, Student
+Secure authentication
+
+Role-based access (Admin, Doctor, Nurse, Student)
+
+Clean Bootstrap UI
+
+A dashboard redirect after login based on role
+
+
+Features of the Starter Template
+Secure Login System
+
+User Role Management
+
+Session-based Authentication
+
+Bootstrap Frontend
+
+Modular PHP structure (MVC-like)
+
+Module 1:
+Features
+Secure Login & Access Control
+Password hashing with password_hash() and password_verify().
+
+Session management and access control middleware.
+
+Role-based access control (RBAC).
+
+Module 2 User management
+secure registration page that allows Admins to create users (Doctors, Nurses, Students, etc.) in your Clinical Database Information System
+
+Key Features
+Role selection during registration
+
+Form validation
+
+User management
+
+Server-side input sanitization
+
+Admin-only access to registration
+
+Module 2 Appointments Module
+
+Features
+Students can request appointments
+
+Doctors/Nurses can view their schedules
+
+Conflict checking: prevent double-booking
+
+Admin can view all appointments
+
+Search/filter by date, status, or user
+
+(Optional) Email confirmatio
