@@ -1,4 +1,4 @@
-# 🏥 Secure Clinical Database Information System (CDIS)
+# Secure Clinical Database Information System (CDIS)
 
 A secure, role-based clinical information system designed to manage student health services at Crawford University. It allows doctors, nurses, and administrators to manage appointments, consultations, lab tests, and student health profiles in a safe, efficient, and responsive environment.
 
@@ -19,8 +19,6 @@ A secure, role-based clinical information system designed to manage student heal
 
 ---
 
----
-
 ## 🛠️ Technologies Used
 
 | Stack | Tools |
@@ -32,3 +30,20 @@ A secure, role-based clinical information system designed to manage student heal
 | Server    | Apache (via XAMPP/LAMP) |
 
 ---
+
+![](https://github.com/Owaboye/student-clinical-information-system/blob/main/student%20clinical-bg.PNG)
+
+## 🏗️ System Requirements
+
+**Hardware**:
+- Intel i3 or higher
+- 4GB RAM minimum
+- 50GB storage
+
+**Software**:
+- Windows/Linux with Apache, PHP, and MySQL
+- XAMPP or LAMP Stack
+- Chrome/Firefox
+
+---
+
