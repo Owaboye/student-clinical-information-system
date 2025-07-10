@@ -47,3 +47,10 @@ A secure, role-based clinical information system designed to manage student heal
 
 ---
 
+## Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/cdis-clinic-system.git
+   cd cdis-clinic-system
+
