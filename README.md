@@ -59,3 +59,30 @@ A secure, role-based clinical information system designed to manage student heal
 - Create a database named cdis_db
 - Import the sql file cdis.sql from the repo
 
+3. Configure Database Connection
+- Edit config/database.php:
+
+4. Start Server
+- Run Apache and MySQL using XAMPP/LAMP
+- Navigate to: http://localhost/cdis
+
+## User Roles and Credentials (for testing)
+### Admin:
+- matric Number: 234233
+- Password: crawford
+- Role: Admin
+
+### Doctor:
+- matric Number: 922
+- Password: crawford
+- Role: Doctor
+
+### Student:
+- matric Number: 299
+- Password: crawford
+- Role: Doctor
+
+# Author
+Ezekiel Oluwasanjo
+LinkedIn | GitHub
+
