@@ -3,7 +3,7 @@
 A secure, role-based clinical information system designed to manage student health services at Crawford University. It allows doctors, nurses, and administrators to manage appointments, consultations, lab tests, and student health profiles in a safe, efficient, and responsive environment.
 
 ---
-## 🚀Key Features
+## Key Features
 
 - 🔒 Secure Login and Role-Based Access (Admin, Doctor, Nurse, Student)
 - 📅 Appointment Scheduling with Conflict and Time Restrictions
@@ -31,9 +31,9 @@ A secure, role-based clinical information system designed to manage student heal
 
 ---
 
-![](https://github.com/Owaboye/student-clinical-information-system/blob/main/student%20clinical-bg.PNG)
+![Background image](https://github.com/Owaboye/student-clinical-information-system/blob/main/student%20clinical-bg.PNG)
 
-## 🏗️ System Requirements
+## System Requirements
 
 **Hardware**:
 - Intel i3 or higher
