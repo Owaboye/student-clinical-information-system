@@ -54,3 +54,8 @@ A secure, role-based clinical information system designed to manage student heal
    git clone https://github.com/yourusername/cdis-clinic-system.git
    cd cdis-clinic-system
 
+2. Import the database 
+- Open phpMyAdmin
+- Create a database named cdis_db
+- Import the sql file cdis.sql from the repo
+
